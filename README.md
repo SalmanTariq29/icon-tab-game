@@ -5,6 +5,6 @@ A simple Flutter-based tab game app with beautiful icons and interactions.
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](E:\Flutter_floder\counter_game\lib\screenshots)
+![Home Screen](C:\Users\salma\Downloads\counter_game.jpg)
 
 A new Flutter project.
